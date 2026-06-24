@@ -1,0 +1,6 @@
+{
+  "name": "Rugby Forum & Tactics Board",
+  "description": "A dark-toned rugby news forum and interactive tactical formation board with secure session management, team database, and sharing capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
